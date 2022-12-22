@@ -5,10 +5,6 @@
 
 - 🌱 I’m currently learning **Python, django**
 
-- 👯 I’m looking to collaborate on **any companies**
-
-- 🤝 I’m looking for help with **...**
-
 - 👨‍💻 All of my projects are available at [my github page](my github page)
 
 

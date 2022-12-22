@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm mothersjacte7</h1>
+<h1 align="center">Hi 👋, I'm mothersjacke7</h1>
 <h3 align="center">Python developer from Russia</h3>
 
 - 🔭 I’m currently working on **looking for project**

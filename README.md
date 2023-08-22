@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python, django**
 
-- 👨‍💻 All of my projects are available at [my github page](my github page)
+- 👨‍💻 All of my projects are available at ([my github page](https://github.com/mothersjacke7?tab=repositories))
 
 
 <h3 align="left">Connect with me:</h3>
